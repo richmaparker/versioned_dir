@@ -1,4 +1,4 @@
-# Hello Brilliant GitHub
+# Hello Brilliant GitHub, Useful GitHub
 
 This README.md will describe this repo on GitHub.
 
