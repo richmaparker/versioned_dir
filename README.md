@@ -1,5 +1,6 @@
 # Hello Brilliant GitHub, Useful GitHub
 
-This README.md will describe this repo on GitHub.
+List of items:
 
-Here's another line.
+* Item 1
+* Item 2
